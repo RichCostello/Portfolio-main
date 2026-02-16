@@ -11,7 +11,7 @@ export const DATA = {
   locationLink: "",
   description: "Front End Developer with extensive Full Stack knowledge. ",
   summary:
-    "I've been building websites and web applications since 2005. My journey with technology and coding has been one of continous learning and hands on development. I started out in the days of Flash and basic HTML/CSS and have navigated the changing landscape with solid understanding of Javascript, PHP and a solid a understading of information architecture. I've been working with React.js since 2015 and have navigated the changes with that library over the past decade.  My Drupal experience dates back to 2007.  I am a very flexible developer who can work on multiple technology platforms.  I have a strong work ethic and pride myself on taking ownership of projects and delivering on deadline.",
+    "I've been building websites and web applications since 2005. My journey with technology and coding has been one of continous learning and hands on development. I started out in the days of Flash and basic HTML/CSS and have navigated the changing landscape with solid understanding of Javascript, PHP and a Information Architecture. I've been working with React.js since 2015 and have navigated the changes with that library over the past decade.  My Drupal experience dates back to 2007.  I am a very flexible developer who can work on multiple technology platforms amd deliver results.  I have a strong work ethic and pride myself on taking ownership of projects and delivering on deadline.",
   avatarUrl: "rc-profile.png",
   skills: [
     "React",
