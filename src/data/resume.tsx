@@ -112,7 +112,7 @@ export const DATA = {
     {
       title: "IchingPortal",
       href: "https:ichingportal.com",
-      dates: "Aug 2024 - Present",
+      dates: "Aug 2024 - Oct 2025",
       active: true,
       description:
         "IchingPortal is both an online divination platform and a keyword search platform that allows users to perform iChing readings and cross reference those results against real time data using keywords and external api's queries. Originally built in React 16, I recently refactored it to Next js/React 19 using Shad cn and Tailwind.css to create a dynamic UI.  Other features include custom integrations with popular API's such as Reddit, YouTube, Polymarket and Spotify. In addition, I have created multiple re-usable custom components throughout the application so I can rapidly add new API integrations",
@@ -207,7 +207,7 @@ export const DATA = {
     {
       title: "DriveClean California",
       href: "https://driveclean.ca.gov/",
-      dates: "Sept 2018 - Present",
+      dates: "Sept 2018 - Oct 2025",
       active: true,
       description:
         "A site I built during my tenure at Center for Sustainable Energy. The site falls under the umbrella of the California Air Resources Board (CARB). The scope of the project was to take a legacy site built with jsp pages and move it into a Drupal and integrate it with the Fueleconomy.gov. This creates a platform where the consumer can get data on clean vehicles in conjunction with rebates and incentives that are offered in California. Recently upgraded to Drupal 10 with the bootstrap framework for the UI. The site has two main objectives, to highlight clean vehicles (ev, hybrid and hydrogen) and showcase the incentives and rebates available when one is purchased. In addition to building the site I added two custom features, a vehicle search and incentive search",
@@ -237,8 +237,8 @@ export const DATA = {
     },
     {
       title: "Front End Salesforce Developer",
-      href: "https://driveclean.ca.gov/",
-      dates: "Sept 2018 - Present",
+      href: "https://apply.calevip.org/s/login/?language=en_US&ec=302&startURL=%2Fs%2F",
+      dates: "Sept 2018 - Oct 2025",
       active: true,
       description:
         "Another facet of my role at the Center for Sustainable Energy was developing UI's on custom salesforce applications built with lightning web components. Worked on an agile development team building applications for state governments and public utilities promoting rebates for electric vehicles and ev charging infrastructure. My role in these sprints was custom styling of both visual force pages and lighting web components that are fully responsive and ADA compliant. With both css and javascript as well as the Salesforce Lightning Design System library, I styled form based applications from start to finish based on design specs and ux layouts. In addition I built landing pages using Experience Builder on the Salesforce backend. Other features include building a progress stepper and styling the layout of survey pages tied the JSON files on the client admin on the Force.com platform.",
