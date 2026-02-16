@@ -98,7 +98,7 @@ export const DATA = {
       start: "September 2018",
       end: "Oct 2025",
       description:
-        "Worked on a platform development team that built websites and applications for state governments and public utilities handling electic vehicle rebates and EV charging infrastructure.  During my tenure our team won several RFP's and developed applications and websites for California, New Jersey, Oregon, Delaware Illinois and various public utilites.  Worked on websites for federal projects related to Solar for All program",
+        "Part of a platform development team that built websites and applications for state governments and public utilities handling electic vehicle rebates and EV charging infrastructure.  During my tenure our team won several RFP's and developed applications and websites for California, New Jersey, Oregon, Delaware Illinois and various public utilites.  Worked on websites for federal projects related to Solar for All program.",
     },
   ],
   education: [
@@ -111,7 +111,7 @@ export const DATA = {
   projects: [
     {
       title: "IchingPortal",
-      href: "https:ichingportal.com",
+      href: "https://ichingportal.com",
       dates: "Aug 2024 - Oct 2025",
       active: true,
       description:
@@ -128,7 +128,7 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
+          type: "iChingPortal.com",
           href: "https://IchingPortal.com",
           icon: <Icons.globe className="size-4" />,
         },
@@ -153,11 +153,18 @@ export const DATA = {
         "Okta",
         "React",
         "Git",
+        "Terminus",
+        "Pantheon",
       ],
       links: [
         {
           type: "CSE Corp",
           href: "https://Energycenter.org/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "SoCal Edison",
+          href: "https://evhome.sce.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
@@ -194,6 +201,8 @@ export const DATA = {
         "Lando",
         "Docker",
         "Okta",
+        "Terminus",
+        "Pantheon",
       ],
       links: [
         {
@@ -220,6 +229,8 @@ export const DATA = {
         "Lando",
         "Docker",
         "Okta",
+        "Terminus",
+        "Pantheon",
       ],
       links: [
         {
