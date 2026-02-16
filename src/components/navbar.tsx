@@ -1,3 +1,5 @@
+// navbar.tsx
+
 import { Dock, DockIcon } from "@/components/magicui/dock";
 import { ModeToggle } from "@/components/mode-toggle";
 import { buttonVariants } from "@/components/ui/button";
@@ -26,10 +28,7 @@ export default function Navbar() {
                     buttonVariants({ variant: "ghost", size: "icon" }),
                     "size-12",
                   )}
-                  target={item.target}
-                  /*rel={
-                    item.target === "_blank" ? "noopener noreferrer" : undefined
-                  }*/
+                  target={item.target ?? undefined}
                 >
                   <item.icon className="size-4" />
                 </Link>
@@ -49,11 +48,13 @@ export default function Navbar() {
                 <TooltipTrigger asChild>
                   <Link
                     href={social.url}
-                    target={social.target}
                     className={cn(
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12",
                     )}
+                    {...("target" in social && social.target
+                      ? { target: social.target }
+                      : {})}
                   >
                     <social.icon className="size-4" />
                   </Link>

@@ -1,3 +1,5 @@
+//resume.tsx
+
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon, FileTextIcon } from "lucide-react";
 
@@ -43,7 +45,7 @@ export const DATA = {
     "Claude AI",
   ],
   navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },
+    { href: "/", icon: HomeIcon, label: "Home", target: undefined },
     {
       href: "https://drive.google.com/file/d/1pWCDN80jtI4kv-WHC9ajh2lAeggSm8sW/view?usp=drive_link",
       icon: FileTextIcon,
