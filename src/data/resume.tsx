@@ -98,7 +98,7 @@ export const DATA = {
       start: "September 2018",
       end: "Oct 2025",
       description:
-        "Part of a platform development team that built websites and applications for state governments and public utilities handling electic vehicle rebates and EV charging infrastructure.  During my tenure our team won several RFP's and developed applications and websites for California, New Jersey, Oregon, Delaware Illinois and various public utilites.  Worked on websites for federal projects related to Solar for All program.",
+        "Part of a platform development team that built websites and applications for state governments and public utilities which focused on electic vehicle rebates and EV charging infrastructure.  During my tenure our team won several RFP's and developed applications and websites for California, New Jersey, Oregon, Delaware, Illinois and various public utilites.  Worked on websites for federal projects related to Solar for All program.",
     },
   ],
   education: [
