@@ -179,6 +179,11 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
         {
+          type: "Mor-ev",
+          href: "https://mor-ev.org/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
           type: "Charge Up NJ",
           href: "https://chargeup.njcleanenergy.com/",
           icon: <Icons.globe className="size-3" />,
