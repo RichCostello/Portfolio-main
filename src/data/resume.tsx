@@ -139,10 +139,10 @@ export const DATA = {
     {
       title: "Drupal Development",
       href: "https://Energycenter.org/",
-      dates: "Sep 2018 - Aug  2025",
+      dates: "Sep 2018 - Oct  2025",
       active: true,
       description:
-        "During my tenure at the Center for Sustainable Energy I built and maintained 15 Drupal web sites. These sites include a corporate site and various websites for state govts and public utilities. Working with Figma comps and Balsamiq UI sketches, I developed multiple Drupal websites that are both fully responsive and ADA compliant. This includes building out custom themes and layouts using twig files and integrating 3rd party applications into sites. Additionally, implementing translation for multiple languages and fullfilling various client requirements. Maintaining each site with current security updates, updating modules using Lando locally and pushing to Pantheon enviroments. Maintaining codebase for custom modules and plugins. Implementing an Okta two factor authentication across all sites for security.",
+        "During my tenure at the Center for Sustainable Energy I built and maintained 15 Drupal web sites and application. These sites include a corporate site and various websites for state govts and public utilities. Working with Figma comps and Balsamiq UI sketches, I developed multiple Drupal websites that are both fully responsive and ADA compliant. This includes building out custom themes and layouts using twig files and integrating 3rd party applications into sites. Additionally, implementing translation for multiple languages and fullfilling various client requirements. Maintaining each site with current security updates, updating modules using Lando locally and pushing to Pantheon enviroments. Maintaining codebase for custom modules and plugins. Implementing an Okta two factor authentication across all sites for security.",
       technologies: [
         "Drupal",
         "PHP/MySQL",
