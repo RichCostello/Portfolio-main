@@ -188,6 +188,11 @@ export const DATA = {
           href: "https://chargeup.njcleanenergy.com/",
           icon: <Icons.globe className="size-3" />,
         },
+        {
+          type: "ElectrifIQ",
+          href: "https://www.electrifiq.org/",
+          icon: <Icons.globe className="size-3" />,
+        },
       ],
       image: "/cse-shot.png",
     },
