@@ -115,13 +115,13 @@ export const DATA = {
       dates: "Aug 2024 - Present",
       active: true,
       description:
-        "IchingPortal is both an online divination platform and a keyword search platform that allows users to perform iChing readings and cross reference those results against real time data using keywords and external api's queries. Originally built in React 16, I recently refactored it to Next js/React 19 using Shadcn and Tailwind.css to create a dynamic UI.  Other features include custom integrations with popular API's and RSS feeds such as Reddit, YouTube, Polymarket and NY Times. In addition, I have created multiple re-usable custom components throughout the application so I can rapidly add new API integrations",
+        "IchingPortal is both an online divination platform and a keyword search platform that allows users to perform iChing readings and cross reference those results against real time data using keywords queries to api's and rss feeds. Originally built in React 16, I recently refactored it to Next js/React 19 using Shadcn and Tailwind.css to create a dynamic UI. I've added a custom user profile feature to save cointoss results and bookmark hexagrams.  Other features include custom integrations with popular API's and RSS feeds such as Reddit, YouTube, Polymarket and NY Times. In addition, I have created multiple re-usable custom components throughout the application so I can rapidly add new API integrations",
       technologies: [
         "React.js",
         "Next.js",
         "TailwindCSS",
         "Node.js",
-        "MongoDB",
+        "Postgres",
         "React Motion",
         "Zustand",
         "Netlify",
