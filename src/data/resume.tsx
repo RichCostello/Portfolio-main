@@ -11,7 +11,7 @@ export const DATA = {
   locationLink: "",
   description: "Front End Developer with extensive Full Stack knowledge. ",
   summary:
-    "I've been building websites and web applications since 2005. My journey with technology and coding has been one of continous learning and hands on development. I started out in the days of Flash and basic HTML/CSS and have navigated the changing landscape with a solid understanding of Javascript, PHP and a Information Architecture. I've been working with React.js since 2015 and have navigated the changes with that library over the past decade, including learning Next js.  My Drupal experience dates back to 2007.  I am a very flexible developer who can work on multiple technology platforms and deliver results.  I have a strong work ethic and pride myself on taking ownership of projects and delivering on deadline.",
+    "I have been building web applications since 2005, driven by a commitment to continuous learning and hands-on development. From the early days of Flash and HTML/CSS to today's modern stacks, I've built a versatile foundation in JavaScript, PHP, and Information Architecture. With a decade of experience in React.js (since 2015) and Next.js, I specialize in navigating evolving library ecosystems to deliver high-performance apps. My Drupal expertise also dates back to 2007, making me a highly flexible developer capable of working across diverse platforms. I pride myself on a strong work ethic, taking full ownership of projects, and consistently delivering results on deadline.",
   avatarUrl: "rc-profile.png",
   skills: [
     "React",
@@ -96,7 +96,7 @@ export const DATA = {
       title: "Senior Web Developer",
       logoUrl: "/logo_cse_rgb.png",
       start: "September 2018",
-      end: "Aug  2025",
+      end: "Oct  2025",
       description:
         "Part of a platform development team that built websites and applications for state governments and public utilities which focused on electic vehicle rebates and EV charging infrastructure.  During my tenure our team won several RFP's and developed applications and websites for California, New Jersey, Oregon, Delaware, Illinois and various public utilites.  Worked on websites for federal projects related to Solar for All program.",
     },
@@ -199,7 +199,7 @@ export const DATA = {
     {
       title: "Calevip.org",
       href: "https://calevip.org/",
-      dates: "Sep 2018 - Aug  2025",
+      dates: "Sep 2018 - Oct 2025",
       active: true,
       description:
         "​An on going Drupal project I worked on at Center for Sustainable Energy. Calevip.org handles rebates for contractors who install EV charging stations around the state of California and is a division of the California Energy Commission. In late 2022 I was tasked with implementing a site redesign and upgrading from a legacy version of Drupalto the latest version. Tasks included building out custom landing pages and section, upgrading outdated tpl layouts to twig, integrating custom modules into new Drupal version.",
