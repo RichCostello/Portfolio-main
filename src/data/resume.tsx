@@ -283,7 +283,7 @@ export const DATA = {
         },
         {
           type: "California Energy Commission",
-          href: "https://apply.calevip.org/s/login/?language=en_US&ec=302&startURL=%2Fs%2F",
+          href: "https://apply.calevip.org/s/SiteRegistration?language=en_US",
           icon: <Icons.globe className="size-3" />,
         },
       ],
